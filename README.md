@@ -43,6 +43,7 @@ The number of symbols on a string that are different from the alphabet's zero-sy
 
 After completing the code and doing successful runs we get the key values:
 
+<img width="496" alt="Attack drawio" src="https://github.com/Ahsan728/CPA-Attack/blob/main/Attack.drawio.png">
 
 
 
