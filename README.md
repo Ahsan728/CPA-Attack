@@ -38,6 +38,9 @@ After completing the code and doing successful runs we get the key values:
 
 <img width="1292" alt="AES" src="https://github.com/Ahsan728/CPA-Attack/blob/main/AES.png">
 
+Finally after all the runs we get the full Key
+# Full Key=162 120 91 100 45 204 228 31 158 174 163 69 120 59 36 193
+
 
 
 
