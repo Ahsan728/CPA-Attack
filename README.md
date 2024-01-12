@@ -30,3 +30,14 @@ This function is a blocking function for sending data that prevents cpu from ret
 In CPA attack of any cryptographic device the array of D means different data blocks, K denotes the total number of possible choices for hypothetical intermediate values, V is a matrix of size DxK which contains the intermediate results. The array H denotes the hypothetical power consumption values that we have mapped from intermediate results. This is also known as Hamming distance. R is the result of comparison between hypothetical power consumption values of each keys with recorded traces. 
 
 The number of symbols on a string that are different from the alphabet's zero-symbol is known as the hamming weight. It is comparable to the Hamming distance from the string made entirely of zeros.The quality of the hypothetical model that is utilised to predict the outcomes of the actual device is a key factor in differential power-analysis attacks.A hacker with competence in the design of cryptographic hardware, for instance, who lacks insider information, can glean plausible details about the implementation. Understanding the statistical characteristics of the algorithm being attacked can also help to develop the fictitious model. This hamming weight is one of the major characteristics of the algorithm, and that's why we think Hamming weight can be used as a hypothetical power model.
+
+After completing the code and doing successful runs we get the key values:
+
+![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/8eee1bf1-b785-43e3-afff-78e948502bdf)
+![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/f26b2e9d-4a0f-4385-923d-bd78cdbda3b0)
+![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/b96e5de7-cb14-4333-9e33-27c60e33e966)
+![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/b426bf4a-0f54-49b6-9a64-df9a698a3162)
+
+
+
+
