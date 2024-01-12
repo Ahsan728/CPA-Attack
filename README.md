@@ -36,7 +36,7 @@ After completing the code and doing successful runs we get the key values:
 
 
 
-<img width="1292" alt="AES" src="https://github.com/Ahsan728/CPA-Attack/assets/34878134/d6590f28-9c78-4c82-a77d-e1f38bfca8c8">
+<img width="1292" alt="AES" src="https://github.com/Ahsan728/CPA-Attack/blob/main/AES.png">
 
 
 
