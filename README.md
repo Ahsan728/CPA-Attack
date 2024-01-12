@@ -1,4 +1,20 @@
 # CPA-Attack @ESISAR
+<i>Repo metadata</i>
+
+<a href="https://github.com/Ahsan728/CPA-Attack/releases/"><img src="https://img.shields.io/github/tag/Ahsan728/CPA-Attack?include_prereleases=&sort=semver&color=blue" alt="GitHub tag"></a>
+<a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+
+<i>Call-to-Action buttons</i>
+
+<div align="center">
+</div>
+<h2>Documentation</h2>
+<div align="center">
+<a href="/docs/" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a>
+
+</div>
+<h2>License</h2>
+Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/Ahsan728">@Ahsan728</a>.
 ## Introduction to Correlation Power Analysis
 This work involves hands-on experimentation by making use of Correlation Power Analysis (CPA) techniques on an Advanced Encryption Standard (AES) implementation coded in C, running on a STM32 ARM-based microcontroller. The main goal will be to study the AES algorithm and the STM32 – Nucleo Printed Circuit Board (PCB) and propose a measurement method. Then power traces will be captured with the use of an Oscilloscope. The attack will be completed by performing CPA on the captured traces.
 
