@@ -48,8 +48,8 @@ The number of symbols on a string that are different from the alphabet's zero-sy
 
 After completing the code and doing successful runs we get the key values:
 
-![Attack EMsF](https://github.com/Ahsan728/CPA-Attack/assets/34878134/b85587dc-eeea-43da-89e7-1686c9d12a4b)
 
+<img width="1292" alt="AES_Bytes" src="https://github.com/Ahsan728/CPA-Attack/blob/main/AES_Bytes.png">
 
 
 
