@@ -33,7 +33,9 @@ The number of symbols on a string that are different from the alphabet's zero-sy
 
 After completing the code and doing successful runs we get the key values:
 
-[AES.png](https://github.com/Ahsan728/CPA-Attack/blob/main/AES.png)https://github.com/Ahsan728/CPA-Attack/blob/main/AES.png
+<img width="500" alt="AES" src="[https://github.com/Ahsan728/AcqSys/blob/main/12aa6594544afb753217d5977a6ac90a.jpg](https://github.com/Ahsan728/CPA-Attack/blob/main/AES.png)">
+
+
 
 
 
