@@ -8,8 +8,16 @@ This laboratory involves hands-on experimentation by making use of Correlation P
 - Task 4: Performing attack through Matlab script
 ## Task 1
 - A shunt resistor to capture the power consumption. Replaced A 1-12 Ω shunt instead of C25
+
+![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/afb4f7df-b5e6-49bc-80e1-b5211bc43ff3)
+
 - Cutting all VSS paths to the ground
+
+![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/f99b4875-053f-4668-a13f-82189480cfbf)
+
 - Capacitors are like filters (remove them)
+  ![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/e26d118c-e44c-4603-880a-e3d315d0b6ba)
+
   
 ## Task 2
 To trigger the oscilloscope we have used these 2 HAL library commands and we placed them in a for loop for the round choose this because here we will record the power consumption of the first round of the aes encryption thus we also get the power consumption for each round during add round key.
