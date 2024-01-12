@@ -33,7 +33,7 @@ The number of symbols on a string that are different from the alphabet's zero-sy
 
 After completing the code and doing successful runs we get the key values:
 
-![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/8eee1bf1-b785-43e3-afff-78e948502bdf)![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/f26b2e9d-4a0f-4385-923d-bd78cdbda3b0)![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/b96e5de7-cb14-4333-9e33-27c60e33e966)![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/b426bf4a-0f54-49b6-9a64-df9a698a3162)
+
 
 
 
