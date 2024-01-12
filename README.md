@@ -6,3 +6,10 @@ This laboratory involves hands-on experimentation by making use of Correlation P
 - Task 2: Focusing the attack based on the maximum leakage
 - Task 3: Explaination of the interface of the AES with the computer
 - Task 4: Performing attack through Matlab script
+- Task 5: Pearson Correlation Coefficient Algorithm
+- Task 6: Countermeasures
+
+## Task 2
+To trigger the oscilloscope we have used these 2 HAL library commands and we placed them in a for loop for the round choose this because here we will record the power consumption of the first round of the aes encryption thus we also get the power consumption for each round during add round key.
+![image](https://github.com/Ahsan728/CPA-Attack/assets/34878134/890f9927-ff2c-4a5a-a5f1-9f326731a32a)
+
